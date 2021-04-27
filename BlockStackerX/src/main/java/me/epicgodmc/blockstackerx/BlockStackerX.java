@@ -6,6 +6,7 @@ import java.util.logging.Logger;
 
 public final class BlockStackerX extends JavaPlugin {
 
+
     private final Logger logger = Logger.getLogger("Minecraft");
 
     @Override

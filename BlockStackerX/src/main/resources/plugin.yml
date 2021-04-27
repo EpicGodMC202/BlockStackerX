@@ -1,0 +1,5 @@
+name: BlockStackerX
+version: ${project.version}
+main: me.epicgodmc.blockstackerx.BlockStackerX
+api-version: 1.16
+authors: [ EpicGodMC ]
